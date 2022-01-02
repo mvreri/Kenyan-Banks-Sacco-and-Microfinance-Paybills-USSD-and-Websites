@@ -1,0 +1,389 @@
+[
+  {
+    "name": "Bank of Africa",
+    "abbrev": "BOA",
+    "ussd": "*987#",
+    "paybill": "972900",
+    "website": "",
+    "institution": "bank",
+    "publicly_listed": false
+  },
+  {
+    "name": "Absa Bank Kenya",
+    "abbrev": "ABSA",
+    "ussd": "*224#",
+    "paybill": "303030",
+    "website": "https://www.absabank.co.ke/",
+    "institution": "bank",
+    "publicly_listed": true
+  },
+  {
+    "name": "CFC Stanbic Bank Kenya",
+    "abbrev": "Stanbic",
+    "ussd": "*208#",
+    "paybill": "600100",
+    "website": "",
+    "institution": "bank",
+    "publicly_listed": true
+  },
+  {
+    "name": "SBM Bank Kenya",
+    "abbrev": "SBM",
+    "ussd": "*275#",
+    "paybill": "552800",
+    "website": "",
+    "institution": "bank",
+    "publicly_listed": false
+  },
+  {
+    "name": "Commercial Bank of Africa",
+    "abbrev": "NCBA",
+    "ussd": "*654#",
+    "paybill": "880100",
+    "website": "",
+    "institution": "bank",
+    "publicly_listed": true
+  },
+  {
+    "name": "Consolidated Bank LTD",
+    "abbrev": "Consolidated",
+    "ussd": "*262#",
+    "paybill": "508400",
+    "website": "",
+    "institution": "bank",
+    "publicly_listed": false
+  },
+  {
+    "name": "Co-operative Bank of Kenya",
+    "abbrev": "Coop",
+    "ussd": "*667#",
+    "paybill": "400200",
+    "website": "",
+    "institution": "bank",
+    "publicly_listed": true
+  },
+  {
+    "name": "Credit Bank",
+    "abbrev": "Credit Bank",
+    "ussd": "*669#",
+    "paybill": "972700",
+    "website": "",
+    "institution": "bank",
+    "publicly_listed": false
+  },
+  {
+    "name": "Diamond Trust Bank",
+    "abbrev": "DTB",
+    "ussd": "*385#",
+    "paybill": "516600",
+    "website": "",
+    "institution": "bank",
+    "publicly_listed": true
+  },
+  {
+    "name": "Ecobank",
+    "abbrev": "Ecobank",
+    "ussd": "*335#",
+    "paybill": "700201",
+    "website": "",
+    "institution": "bank",
+    "publicly_listed": false
+  },
+  {
+    "name": "Equatorial Commercial Bank",
+    "abbrev": "Equitorial",
+    "ussd": "*286#",
+    "paybill": "498100",
+    "website": "",
+    "institution": "bank",
+    "publicly_listed": false
+  },
+  {
+    "name": "Equity Bank",
+    "abbrev": "Equity",
+    "ussd": "*247#",
+    "paybill": "247247",
+    "website": "",
+    "institution": "bank",
+    "publicly_listed": true
+  },
+  {
+    "name": "Family Bank Ltd",
+    "abbrev": "Family",
+    "ussd": "*325#",
+    "paybill": "222111",
+    "website": "",
+    "institution": "bank",
+    "publicly_listed": true
+  },
+  {
+    "name": "Faulu DTM",
+    "abbrev": "Faulu",
+    "ussd": "*339#",
+    "paybill": "328585",
+    "website": "",
+    "institution": "bank",
+    "publicly_listed": false
+  },
+  {
+    "name": "First Community Bank Ltd",
+    "abbrev": "First Community",
+    "ussd": "*342#",
+    "paybill": "919700",
+    "website": "",
+    "institution": "bank",
+    "publicly_listed": false
+  },
+  {
+    "name": "Guaranty Trust Bank Kenya Ltd",
+    "abbrev": "GTBank",
+    "ussd": "",
+    "paybill": "910200",
+    "website": "",
+    "institution": "bank",
+    "publicly_listed": false
+  },
+  {
+    "name": "Gulf African Bank",
+    "abbrev": "Gulf Bank",
+    "ussd": "*399#",
+    "paybill": "985050",
+    "website": "",
+    "institution": "bank",
+    "publicly_listed": false
+  },
+  {
+    "name": "Housing Finance Company LTD",
+    "abbrev": "HFCK",
+    "ussd": "*231#",
+    "paybill": "100400",
+    "website": "",
+    "institution": "bank",
+    "publicly_listed": false
+  },
+  {
+    "name": "I & M Bank Limited",
+    "abbrev": "I & M",
+    "ussd": "*458#",
+    "paybill": "542542",
+    "website": "",
+    "institution": "bank",
+    "publicly_listed": true
+  },
+  {
+    "name": "IMPERIAL BANK LTD",
+    "abbrev": "Imperial",
+    "ussd": "*356#",
+    "paybill": "800100",
+    "website": "",
+    "institution": "bank",
+    "publicly_listed": false
+  },
+  {
+    "name": "Jamii Bora Bank",
+    "abbrev": "Jamii Bora",
+    "ussd": "*344#",
+    "paybill": "529901",
+    "website": "",
+    "institution": "bank",
+    "publicly_listed": false
+  },
+  {
+    "name": "Kenya Commercial Bank",
+    "abbrev": "KCB",
+    "ussd": "*522#",
+    "paybill": "522522",
+    "website": "",
+    "institution": "bank",
+    "publicly_listed": true
+  },
+  {
+    "name": "K-REP BANK",
+    "abbrev": "KREP",
+    "ussd": "*527#",
+    "paybill": "111999",
+    "website": "",
+    "institution": "bank",
+    "publicly_listed": false
+  },
+  {
+    "name": "KWFTDTM",
+    "abbrev": "KWFTDTM",
+    "ussd": "*378#",
+    "paybill": "101200",
+    "website": "",
+    "institution": "bank",
+    "publicly_listed": false
+  },
+  {
+    "name": "Musoni",
+    "abbrev": "Musoni",
+    "ussd": "*279#",
+    "paybill": "514000",
+    "website": "",
+    "institution": "bank",
+    "publicly_listed": false
+  },
+  {
+    "name": "National Bank",
+    "abbrev": "NBK",
+    "ussd": "*625#",
+    "paybill": "625625",
+    "website": "",
+    "institution": "bank",
+    "publicly_listed": true
+  },
+  {
+    "name": "NIC Bank Limited",
+    "abbrev": "NIC",
+    "ussd": "*488#",
+    "paybill": "488488",
+    "website": "",
+    "institution": "bank",
+    "publicly_listed": true
+  },
+  {
+    "name": "Post Office Savings Bank",
+    "abbrev": "Posta",
+    "ussd": "*498#",
+    "paybill": "200999",
+    "website": "",
+    "institution": "bank",
+    "publicly_listed": false
+  },
+  {
+    "name": "Rafiki DTM",
+    "abbrev": "Rafiki",
+    "ussd": "*366#",
+    "paybill": "802200",
+    "website": "",
+    "institution": "bank",
+    "publicly_listed": false
+  },
+  {
+    "name": "SMEP Microfinance Bank",
+    "abbrev": "SMEP DTM",
+    "ussd": "*741#",
+    "paybill": "777001",
+    "website": "https://www.smep.co.ke/",
+    "institution": "bank",
+    "publicly_listed": false
+  },
+  {
+    "name": "Standard Chartered Bank",
+    "abbrev": "Stanchart",
+    "ussd": "*722#",
+    "paybill": "329329",
+    "website": "https://www.sc.com/",
+    "institution": "bank",
+    "publicly_listed": true
+  },
+  {
+    "name": "Transnational Bank",
+    "abbrev": "Transnational",
+    "ussd": "*862#",
+    "paybill": "862862",
+    "website": "",
+    "institution": "bank",
+    "publicly_listed": false
+  },
+  {
+    "name": "UBA Bank",
+    "abbrev": "UBA",
+    "ussd": "*368#",
+    "paybill": "559900",
+    "website": "",
+    "institution": "bank",
+    "publicly_listed": false
+  },
+  {
+    "name": "ABC Bank",
+    "abbrev": "ABC Bank",
+    "ussd": "",
+    "paybill": "111777",
+    "website": "",
+    "institution": "bank",
+    "publicly_listed": false
+  },
+  {
+    "name": "CITIBANK N.A KENYA",
+    "abbrev": "Citi",
+    "ussd": "",
+    "paybill": "100229",
+    "website": "",
+    "institution": "bank",
+    "publicly_listed": false
+  },
+  {
+    "name": "Prime Bank",
+    "abbrev": "Prime Bank",
+    "ussd": "",
+    "paybill": "982800",
+    "website": "",
+    "institution": "bank",
+    "publicly_listed": false
+  },
+  {
+    "name": "Uwezo DTM",
+    "abbrev": "Uwezo",
+    "ussd": "",
+    "paybill": "504600",
+    "website": "",
+    "institution": "bank",
+    "publicly_listed": false
+  },
+  {
+    "name": "Paramount Bank",
+    "abbrev": "Paramount",
+    "ussd": "",
+    "paybill": "907950",
+    "website": "",
+    "institution": "bank",
+    "publicly_listed": false
+  },
+  {
+    "name": "Oriental Commercial Bank",
+    "abbrev": "Paramount",
+    "ussd": "",
+    "paybill": "",
+    "website": "",
+    "institution": "bank",
+    "publicly_listed": false
+  },
+  {
+    "name": "Guardian Commercial Bank",
+    "abbrev": "Guardian",
+    "ussd": "",
+    "paybill": "344500",
+    "website": "",
+    "institution": "bank",
+    "publicly_listed": false
+  },
+  {
+    "name": "Faida Investment Bank",
+    "abbrev": "FIB",
+    "ussd": "",
+    "paybill": "888900",
+    "website": "",
+    "institution": "bank",
+    "publicly_listed": false
+  },
+  {
+    "name": "Bank of Baroda",
+    "abbrev": "Baroda",
+    "ussd": "",
+    "paybill": "902363",
+    "website": "",
+    "institution": "bank",
+    "publicly_listed": false
+  },
+  {
+    "name": "Development Bank of Kenya",
+    "abbrev": "DBK",
+    "ussd": "",
+    "paybill": "",
+    "website": "",
+    "institution": "bank",
+    "publicly_listed": false
+  }
+]
