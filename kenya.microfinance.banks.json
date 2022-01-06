@@ -4,12 +4,17 @@
     "institution": "microfinance",
     "managing_director": "Mr. George Mugwe Maina",
     "md_confirmed": true,
-    "postal_address": "P. O. Box 15352 - 00100, Nairobi",
-    "phone": "+254 - 020 - 5151500",
-    "email_address": "info@caritas-mfb.co.ke",
-    "website": "www.caritas-mfb.co.ke",
-    "physical_address": "Cardinal Maurice Otunga Plaza, Ground Floor, Kaunda Street, Nairobi.",
+    "contacts": {
+      "postal_address": "P. O. Box 15352 - 00100, Nairobi",
+      "phone": "+254 - 020 - 5151500",
+      "email_address": "info@caritas-mfb.co.ke",
+      "website": "www.caritas-mfb.co.ke",
+      "physical_address": "Cardinal Maurice Otunga Plaza, Ground Floor, Kaunda Street, Nairobi."
+    },
     "date_licenced": "2nd June 2015",
+    "ussd": "*810#",
+    "mobile_app": "",
+    "paybill": "899790",
     "branches": 1
   },
   {
@@ -17,12 +22,17 @@
     "institution": "microfinance",
     "managing_director": "Mr. Reuben Mwangi",
     "md_confirmed": true,
-    "postal_address": "P. O. Box 38319 - 00623, Nairobi",
-    "phone": "+254 - 020 - 2664282, 0722 - 168721, 0756 - 305132",
-    "email_address": "info@century.co.ke",
-    "website": "www.century.co.ke",
-    "physical_address": "K.K. Plaza, 1st Floor, New Pumwani Road - Gikomba, Nairobi",
+    "contacts": {
+      "postal_address": "P. O. Box 38319 - 00623, Nairobi",
+      "phone": "+254 - 020 - 2664282, 0722 - 168721, 0756 - 305132",
+      "email_address": "info@century.co.ke",
+      "website": "www.century.co.ke",
+      "physical_address": "K.K. Plaza, 1st Floor, New Pumwani Road - Gikomba, Nairobi"
+    },
     "date_licenced": "17th September 2012",
+    "ussd": "*871#",
+    "mobile_app": "Hela247",
+    "paybill": "888600",
     "branches": 2
   },
   {
@@ -30,12 +40,17 @@
     "institution": "microfinance",
     "managing_director": "Ms. Lydiah Maina",
     "md_confirmed": true,
-    "postal_address": "P. O. Box 18263 - 00100, Nairobi",
-    "phone": "+254 - 020 3882206 / 207, 0736 - 662218, 0724 - 308000",
-    "email_address": "info@choicemfb.com",
-    "website": "www.choicemfb.com",
-    "physical_address": "Siron Place, Ongata Rongai, Magadi Road, Nairobi",
+    "contacts": {
+      "postal_address": "P. O. Box 18263 - 00100, Nairobi",
+      "phone": "+254 - 020 3882206 / 207, 0736 - 662218, 0724 - 308000",
+      "email_address": "info@choicemfb.com",
+      "website": "www.choicemfb.com",
+      "physical_address": "Siron Place, Ongata Rongai, Magadi Road, Nairobi"
+    },
     "date_licenced": "13th May 2015",
+    "ussd": "",
+    "mobile_app": "",
+    "paybill": "990360",
     "branches": 1
   },
   {
@@ -43,12 +58,17 @@
     "institution": "microfinance",
     "managing_director": "Mr. Githuku Mwangi",
     "md_confirmed": false,
-    "postal_address": "P.O. Box 100854 - 00101, Nairobi",
-    "phone": "+254 - 020 - 3879995 / 0733 - 988888, 0707 – 444888, 0718 - 444888",
-    "email_address": "daraja@darajabank.co.ke",
-    "website": "www.darajabank.co.ke",
-    "physical_address": "Karandini Road, off Naivasha Road, Nairobi",
+    "contacts": {
+      "postal_address": "P.O. Box 100854 - 00101, Nairobi",
+      "phone": "+254 - 020 - 3879995 / 0733 - 988888, 0707 – 444888, 0718 - 444888",
+      "email_address": "daraja@darajabank.co.ke",
+      "website": "www.darajabank.co.ke",
+      "physical_address": "Karandini Road, off Naivasha Road, Nairobi"
+    },
     "date_licenced": "12th January 2015",
+    "ussd": "",
+    "mobile_app": "",
+    "paybill": "800642",
     "branches": 1
   },
   {
@@ -56,12 +76,17 @@
     "institution": "microfinance",
     "managing_director": "Mr. Charles Kimani Njuguna",
     "md_confirmed": true,
-    "postal_address": "P. O. Box 60240 - 00200, Nairobi",
-    "phone": "+254 - 020 - 3877290/3/7; 3872183/4; 3867503, 0711 - 074074, 0708 -111000",
-    "email_address": "info@faulukenya.com; customercare@faulukenya.com; contact@faulukenya.com",
-    "website": "www.faulukenya.com",
-    "physical_address": "Faulu Kenya House, Ngong Lane, Off Ngong Road",
+    "contacts": {
+      "postal_address": "P. O. Box 60240 - 00200, Nairobi",
+      "phone": "+254 - 020 - 3877290/3/7; 3872183/4; 3867503, 0711 - 074074, 0708 -111000",
+      "email_address": "info@faulukenya.com; customercare@faulukenya.com; contact@faulukenya.com",
+      "website": "www.faulukenya.com",
+      "physical_address": "Faulu Kenya House, Ngong Lane, Off Ngong Road"
+    },
     "date_licenced": "21st May 2009",
+    "ussd": "",
+    "mobile_app": "*339#",
+    "paybill": "328585",
     "branches": 39
   },
   {
@@ -69,12 +94,17 @@
     "institution": "microfinance",
     "managing_director": "Mr. James Mwangi Githaiga",
     "md_confirmed": true,
-    "postal_address": "P. O. Box 4179-00506, Nairobi",
-    "phone": "+254 - 020 - 3067000, 2470272-5/2715334-5, 0729920920, 0732633332,0703 - 067000",
-    "email_address": "info@kwftdtm.com",
-    "website": "www.kwftdtm.com",
-    "physical_address": "Akira House, Kiambere Road, Upper Hill, Nairobi",
+    "contacts": {
+      "postal_address": "P. O. Box 4179-00506, Nairobi",
+      "phone": "+254 - 020 - 3067000, 2470272-5/2715334-5, 0729920920, 0732633332,0703 - 067000",
+      "email_address": "info@kwftdtm.com",
+      "website": "www.kwftdtm.com",
+      "physical_address": "Akira House, Kiambere Road, Upper Hill, Nairobi"
+    },
     "date_licenced": "31st March 2010",
+    "ussd": "",
+    "mobile_app": "*859#",
+    "paybill": "101200",
     "branches": 31
   },
   {
@@ -82,12 +112,17 @@
     "institution": "microfinance",
     "managing_director": "Mr. Ken Obimbo",
     "md_confirmed": true,
-    "postal_address": "P. O. Box 12755 - 00400, Nairobi",
-    "phone": "+254-020-2166401/0730 170 000/500",
-    "email_address": "info@rafiki.co.ke",
-    "website": "www.rafiki.co.ke",
-    "physical_address": "Rafiki House, Biashara Street, Nairobi",
+    "contacts": {
+      "postal_address": "P. O. Box 12755 - 00400, Nairobi",
+      "phone": "+254-020-2166401/0730 170 000/500",
+      "email_address": "info@rafiki.co.ke",
+      "website": "www.rafiki.co.ke",
+      "physical_address": "Rafiki House, Biashara Street, Nairobi"
+    },
     "date_licenced": "14th June 2011",
+    "ussd": "*366#",
+    "mobile_app": "",
+    "paybill": "802200",
     "branches": 17
   },
   {
@@ -95,12 +130,17 @@
     "institution": "microfinance",
     "managing_director": "Ms. Nancy Waweru",
     "md_confirmed": false,
-    "postal_address": "P. O. Box 20833 - 00100, Nairobi",
-    "phone": "+254 - 020 - 2214483/2215384/ 2215387/8/9, 2631070, 2215380, 2215384/5/7/8/9, 0733-554555",
-    "email_address": "info@remultd.co.ke",
-    "website": "www.remultd.co.ke",
-    "physical_address": "Finance House, 14th Floor, Loita Street, Nairobi",
+    "contacts": {
+      "postal_address": "P. O. Box 20833 - 00100, Nairobi",
+      "phone": "+254 - 020 - 2214483/2215384/ 2215387/8/9, 2631070, 2215380, 2215384/5/7/8/9, 0733-554555",
+      "email_address": "info@remultd.co.ke",
+      "website": "www.remultd.co.ke",
+      "physical_address": "Finance House, 14th Floor, Loita Street, Nairobi"
+    },
     "date_licenced": "31st December 2010",
+    "ussd": "",
+    "mobile_app": "*356#",
+    "paybill": "953300",
     "branches": 3
   },
   {
@@ -108,12 +148,17 @@
     "institution": "microfinance",
     "managing_director": "Mr. Symon Kamore",
     "md_confirmed": true,
-    "postal_address": "P. O. Box 64063 - 00620, Nairobi",
-    "phone": "+254 - 020 - 3572799/2055761, 2673327/8, 0711606900",
-    "email_address": "info@smep.co.ke",
-    "website": "www.smep.co.ke",
-    "physical_address": "SMEP Building - Kirichwa Road, Off Argwings Kodhek Road, Nairobi",
+    "contacts": {
+      "postal_address": "P. O. Box 64063 - 00620, Nairobi",
+      "phone": "+254 - 020 - 3572799/2055761, 2673327/8, 0711606900",
+      "email_address": "info@smep.co.ke",
+      "website": "www.smep.co.ke",
+      "physical_address": "SMEP Building - Kirichwa Road, Off Argwings Kodhek Road, Nairobi"
+    },
     "date_licenced": "14th December 2010",
+    "ussd": "*741#",
+    "mobile_app": "CashKash",
+    "paybill": "777001",
     "branches": 7
   },
   {
@@ -121,12 +166,17 @@
     "institution": "microfinance",
     "managing_director": "Mr. John Kamau Njihia",
     "md_confirmed": true,
-    "postal_address": "P. O. Box 11687 - 00100, Nairobi",
-    "phone": "+254 - 020 - 2212587, 2210440, 2249047, 0738637245, 0725223499",
-    "email_address": "infor@sumacmicrofinancebank.co.ke",
-    "website": "www.sumacmicrofinancebank.co.ke",
-    "physical_address": "Consolidated Bank House, 2nd Floor, Koinange Street, Nairobi",
+    "contacts": {
+      "postal_address": "P. O. Box 11687 - 00100, Nairobi",
+      "phone": "+254 - 020 - 2212587, 2210440, 2249047, 0738637245, 0725223499",
+      "email_address": "infor@sumacmicrofinancebank.co.ke",
+      "website": "www.sumacmicrofinancebank.co.ke",
+      "physical_address": "Consolidated Bank House, 2nd Floor, Koinange Street, Nairobi"
+    },
     "date_licenced": "29th October 2012",
+    "ussd": "",
+    "mobile_app": "*882#",
+    "paybill": "984800",
     "branches": 4
   },
   {
@@ -134,12 +184,17 @@
     "institution": "microfinance",
     "managing_director": "Mr. Simon Mwangi Ngigi",
     "md_confirmed": true,
-    "postal_address": "15825 - 00100, Nairobi",
-    "phone": "+254 - 020 - 2367288, 0713 - 112791",
-    "email_address": "info@uni-microfinance.co.ke",
-    "website": "www.uni-microfinance.co.ke",
-    "physical_address": "Asili Complex, 1st Floor, River Road, Nairobi",
+    "contacts": {
+      "postal_address": "15825 - 00100, Nairobi",
+      "phone": "+254 - 020 - 2367288, 0713 - 112791",
+      "email_address": "info@uni-microfinance.co.ke",
+      "website": "www.uni-microfinance.co.ke",
+      "physical_address": "Asili Complex, 1st Floor, River Road, Nairobi"
+    },
     "date_licenced": "8th April 2013",
+    "ussd": "*356#",
+    "mobile_app": "",
+    "paybill": "509900",
     "branches": 2
   },
   {
@@ -147,12 +202,17 @@
     "institution": "microfinance",
     "managing_director": "Mr. Edward Mwithali",
     "md_confirmed": false,
-    "postal_address": "1654 - 00100, Nairobi",
-    "phone": "2212919, 0703591302",
-    "email_address": "info@uwezodtm.com",
-    "website": "www.uwezodtm.com",
-    "physical_address": "Rehani House, 11th Floor, Koinange Street, Nairobi",
+    "contacts": {
+      "postal_address": "1654 - 00100, Nairobi",
+      "phone": "2212919, 0703591302",
+      "email_address": "info@uwezodtm.com",
+      "website": "www.uwezodtm.com",
+      "physical_address": "Rehani House, 11th Floor, Koinange Street, Nairobi"
+    },
     "date_licenced": "8th November 2010",
+    "ussd": "",
+    "mobile_app": "Uwezo Kash",
+    "paybill": "756231",
     "branches": 2
   },
   {
@@ -160,12 +220,17 @@
     "institution": "microfinance",
     "managing_director": "Mr. Ireneus Gichana",
     "md_confirmed": true,
-    "postal_address": "P.O. Box 49316 -00100 GPO Nairobi",
-    "phone": "0792 002 300/020 2220648",
-    "email_address": "info@maishbank.com",
-    "website": "www.maishabank.com",
-    "physical_address": "2nd Floor, Chester House-Commercial Wing, Koinange Street, Nairobi",
+    "contacts": {
+      "postal_address": "P.O. Box 49316 -00100 GPO Nairobi",
+      "phone": "0792 002 300/020 2220648",
+      "email_address": "info@maishbank.com",
+      "website": "www.maishabank.com",
+      "physical_address": "2nd Floor, Chester House-Commercial Wing, Koinange Street, Nairobi"
+    },
     "date_licenced": "21st May 2016",
+    "ussd": "",
+    "mobile_app": "M-Fanisi",
+    "paybill": "905555",
     "branches": 1
   }
 ]
