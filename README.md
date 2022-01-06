@@ -1,5 +1,7 @@
 # Kenyan-Banks-Sacco-and-Microfinance-Paybills-USSD-and-Websites
+Sometimes, we just need all the information available in one place, and readily available for web and mobile application. Hence, this.
 This repository contains details of Kenyan Banks', Saccos' and Microfinance Institutions' Paybills, USSD details and contact information. 
+Hopefully, it helps
 
 # Sources
 1. Microfinance: https://www.centralbank.go.ke/wp-content/uploads/2016/06/Directory-of-Licenced-Microfinance-Banks.pdf
