@@ -2,6 +2,7 @@
   {
     "name": "Bank of Africa",
     "abbrev": "BOA",
+    "code": "boa",
     "ussd": "*987#",
     "mobile_app": "",
     "paybill": "972900",
@@ -12,6 +13,7 @@
   {
     "name": "Absa Bank Kenya",
     "abbrev": "ABSA",
+    "code": "absa",
     "ussd": "*224#",
     "mobile_app": "",
     "paybill": "303030",
@@ -22,6 +24,7 @@
   {
     "name": "CFC Stanbic Bank Kenya",
     "abbrev": "Stanbic",
+    "code": "stanbic",
     "ussd": "*208#",
     "mobile_app": "",
     "paybill": "600100",
@@ -32,6 +35,7 @@
   {
     "name": "SBM Bank Kenya",
     "abbrev": "SBM",
+    "code": "sbm",
     "ussd": "*275#",
     "mobile_app": "",
     "paybill": "552800",
@@ -42,6 +46,7 @@
   {
     "name": "Commercial Bank of Africa",
     "abbrev": "NCBA",
+    "code": "ncba",
     "ussd": "*654#",
     "mobile_app": "",
     "paybill": "880100",
@@ -52,6 +57,7 @@
   {
     "name": "Consolidated Bank LTD",
     "abbrev": "Consolidated",
+    "code": "consolidated",
     "ussd": "*262#",
     "mobile_app": "",
     "paybill": "508400",
@@ -62,6 +68,7 @@
   {
     "name": "Co-operative Bank of Kenya",
     "abbrev": "Coop",
+    "code": "coopbank",
     "ussd": "*667#",
     "mobile_app": "",
     "paybill": "400200",
@@ -72,6 +79,7 @@
   {
     "name": "Credit Bank",
     "abbrev": "Credit Bank",
+    "code": "creditbank",
     "ussd": "*669#",
     "mobile_app": "",
     "paybill": "972700",
@@ -82,6 +90,7 @@
   {
     "name": "Diamond Trust Bank",
     "abbrev": "DTB",
+    "code": "dtb",
     "ussd": "*385#",
     "mobile_app": "",
     "paybill": "516600",
@@ -92,6 +101,7 @@
   {
     "name": "Ecobank",
     "abbrev": "Ecobank",
+    "code": "ecobank",
     "ussd": "*335#",
     "mobile_app": "",
     "paybill": "700201",
@@ -102,6 +112,7 @@
   {
     "name": "Equatorial Commercial Bank",
     "abbrev": "Equitorial",
+    "code": "equitorial",
     "ussd": "*286#",
     "mobile_app": "",
     "paybill": "498100",
@@ -112,6 +123,7 @@
   {
     "name": "Equity Bank",
     "abbrev": "Equity",
+    "code": "equity",
     "ussd": "*247#",
     "mobile_app": "",
     "paybill": "247247",
@@ -122,6 +134,7 @@
   {
     "name": "Family Bank Ltd",
     "abbrev": "Family",
+    "code": "family",
     "ussd": "*325#",
     "mobile_app": "",
     "paybill": "222111",
@@ -132,6 +145,7 @@
   {
     "name": "Faulu DTM",
     "abbrev": "Faulu",
+    "code": "faulu",
     "ussd": "*339#",
     "mobile_app": "",
     "paybill": "328585",
@@ -142,6 +156,7 @@
   {
     "name": "First Community Bank Ltd",
     "abbrev": "First Community",
+    "code": "fcommunity",
     "ussd": "*342#",
     "mobile_app": "",
     "paybill": "919700",
@@ -152,6 +167,7 @@
   {
     "name": "Guaranty Trust Bank Kenya Ltd",
     "abbrev": "GTBank",
+    "code": "gtbank",
     "ussd": "",
     "mobile_app": "",
     "paybill": "910200",
@@ -162,6 +178,7 @@
   {
     "name": "Gulf African Bank",
     "abbrev": "Gulf Bank",
+    "code": "gulfbank",
     "ussd": "*399#",
     "mobile_app": "",
     "paybill": "985050",
@@ -172,6 +189,7 @@
   {
     "name": "Housing Finance Company LTD",
     "abbrev": "HFCK",
+    "code": "hfck",
     "ussd": "*231#",
     "mobile_app": "",
     "paybill": "100400",
@@ -182,6 +200,7 @@
   {
     "name": "I & M Bank Limited",
     "abbrev": "I & M",
+    "code": "iandm",
     "ussd": "*458#",
     "mobile_app": "",
     "paybill": "542542",
@@ -192,6 +211,7 @@
   {
     "name": "IMPERIAL BANK LTD",
     "abbrev": "Imperial",
+    "code": "imperial",
     "ussd": "*356#",
     "mobile_app": "",
     "paybill": "800100",
@@ -202,6 +222,7 @@
   {
     "name": "Jamii Bora Bank",
     "abbrev": "Jamii Bora",
+    "code": "jbora",
     "ussd": "*344#",
     "mobile_app": "",
     "paybill": "529901",
@@ -212,6 +233,7 @@
   {
     "name": "Kenya Commercial Bank",
     "abbrev": "KCB",
+    "code": "kcb",
     "ussd": "*522#",
     "mobile_app": "",
     "paybill": "522522",
@@ -222,6 +244,7 @@
   {
     "name": "K-REP BANK",
     "abbrev": "KREP",
+    "code": "krep",
     "ussd": "*527#",
     "mobile_app": "",
     "paybill": "111999",
@@ -232,6 +255,7 @@
   {
     "name": "KWFTDTM",
     "abbrev": "KWFTDTM",
+    "code": "kwft",
     "ussd": "*378#",
     "mobile_app": "",
     "paybill": "101200",
@@ -242,6 +266,7 @@
   {
     "name": "Musoni",
     "abbrev": "Musoni",
+    "code": "musoni",
     "ussd": "*279#",
     "mobile_app": "",
     "paybill": "514000",
@@ -252,6 +277,7 @@
   {
     "name": "National Bank",
     "abbrev": "NBK",
+    "code": "nbk",
     "ussd": "*625#",
     "mobile_app": "",
     "paybill": "625625",
@@ -262,6 +288,7 @@
   {
     "name": "NIC Bank Limited",
     "abbrev": "NIC",
+    "code": "nic",
     "ussd": "*488#",
     "mobile_app": "",
     "paybill": "488488",
@@ -272,6 +299,7 @@
   {
     "name": "Post Office Savings Bank",
     "abbrev": "Posta",
+    "code": "posta",
     "ussd": "*498#",
     "mobile_app": "",
     "paybill": "200999",
@@ -282,6 +310,7 @@
   {
     "name": "Rafiki DTM",
     "abbrev": "Rafiki",
+    "code": "rafiki",
     "ussd": "*366#",
     "mobile_app": "",
     "paybill": "802200",
@@ -292,6 +321,7 @@
   {
     "name": "SMEP Microfinance Bank",
     "abbrev": "SMEP DTM",
+    "code": "smep",
     "ussd": "*741#",
     "mobile_app": "",
     "paybill": "777001",
@@ -302,6 +332,7 @@
   {
     "name": "Standard Chartered Bank",
     "abbrev": "Stanchart",
+    "code": "stanchart",
     "ussd": "*722#",
     "mobile_app": "",
     "paybill": "329329",
@@ -312,6 +343,7 @@
   {
     "name": "Transnational Bank",
     "abbrev": "Transnational",
+    "code": "transnational",
     "ussd": "*862#",
     "mobile_app": "",
     "paybill": "862862",
@@ -322,6 +354,7 @@
   {
     "name": "UBA Bank",
     "abbrev": "UBA",
+    "code": "uba",
     "ussd": "*368#",
     "mobile_app": "",
     "paybill": "559900",
@@ -332,6 +365,7 @@
   {
     "name": "ABC Bank",
     "abbrev": "ABC Bank",
+    "code": "abcbank",
     "ussd": "",
     "mobile_app": "",
     "paybill": "111777",
@@ -342,6 +376,7 @@
   {
     "name": "CITIBANK N.A KENYA",
     "abbrev": "Citi",
+    "code": "citibank",
     "ussd": "",
     "mobile_app": "",
     "paybill": "100229",
@@ -352,6 +387,7 @@
   {
     "name": "Prime Bank",
     "abbrev": "Prime Bank",
+    "code": "primebank",
     "ussd": "",
     "mobile_app": "",
     "paybill": "982800",
@@ -362,6 +398,7 @@
   {
     "name": "Uwezo DTM",
     "abbrev": "Uwezo",
+    "code": "uwezo",
     "ussd": "",
     "mobile_app": "",
     "paybill": "504600",
@@ -372,6 +409,7 @@
   {
     "name": "Paramount Bank",
     "abbrev": "Paramount",
+    "code": "paramount",
     "ussd": "",
     "mobile_app": "",
     "paybill": "907950",
@@ -380,18 +418,9 @@
     "publicly_listed": false
   },
   {
-    "name": "Oriental Commercial Bank",
-    "abbrev": "Paramount",
-    "ussd": "",
-    "mobile_app": "",
-    "paybill": "",
-    "website": "",
-    "institution": "bank",
-    "publicly_listed": false
-  },
-  {
     "name": "Guardian Commercial Bank",
     "abbrev": "Guardian",
+    "code": "guardian",
     "ussd": "",
     "mobile_app": "",
     "paybill": "344500",
@@ -402,6 +431,7 @@
   {
     "name": "Faida Investment Bank",
     "abbrev": "FIB",
+    "code": "fib",
     "ussd": "",
     "mobile_app": "",
     "paybill": "888900",
@@ -412,6 +442,7 @@
   {
     "name": "Bank of Baroda",
     "abbrev": "Baroda",
+    "code": "baroda",
     "ussd": "",
     "mobile_app": "",
     "paybill": "902363",
@@ -422,6 +453,7 @@
   {
     "name": "Development Bank of Kenya",
     "abbrev": "DBK",
+    "code": "dbk",
     "ussd": "",
     "mobile_app": "",
     "paybill": "",
